@@ -1,0 +1,39 @@
+[Session]
+FileVersion=1
+File0\FileName=New folder/title.tex
+File0\Line=33
+File0\Col=12
+File0\FirstLine=16
+File0\FoldedLines=
+File1\FileName=New folder/eagle.tex
+File1\Line=4
+File1\Col=0
+File1\FirstLine=0
+File1\FoldedLines=
+File2\FileName=New folder/PS.tex
+File2\Line=0
+File2\Col=0
+File2\FirstLine=0
+File2\FoldedLines=
+File3\FileName=New folder/PCB.tex
+File3\Line=0
+File3\Col=0
+File3\FirstLine=0
+File3\FoldedLines=
+File4\FileName=New folder/PCBfabrication.tex
+File4\Line=0
+File4\Col=0
+File4\FirstLine=0
+File4\FoldedLines=
+File5\FileName=New folder/final.tex
+File5\Line=72
+File5\Col=1
+File5\FirstLine=0
+File5\FoldedLines=
+MasterFile=
+CurrentFile=New folder/title.tex
+Bookmarks=@Invalid()
+
+[InternalPDFViewer]
+File=New folder/title.pdf
+Embedded=true
